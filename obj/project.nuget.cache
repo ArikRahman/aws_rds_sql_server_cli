@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5/Lg51DqQo=",
+  "success": true,
+  "projectFilePath": "/home/arik/Documents/Github/aws_rds_sql_server_cli/aws_rds_sql_server_cli.csproj",
+  "expectedPackageFiles": [
+    "/home/arik/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.0-preview.5.24306.11/microsoft.aspnetcore.app.ref.9.0.0-preview.5.24306.11.nupkg.sha512"
+  ],
+  "logs": []
+}

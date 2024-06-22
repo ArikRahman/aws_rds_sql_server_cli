@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net9.0": []
+  },
+  "packageFolders": {
+    "/home/arik/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/arik/Documents/Github/aws_rds_sql_server_cli/aws_rds_sql_server_cli.csproj",
+      "projectName": "aws_rds_sql_server_cli",
+      "projectPath": "/home/arik/Documents/Github/aws_rds_sql_server_cli/aws_rds_sql_server_cli.csproj",
+      "packagesPath": "/home/arik/.nuget/packages/",
+      "outputPath": "/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/arik/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.0-preview.5.24306.11, 9.0.0-preview.5.24306.11]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-preview.5.24307.3/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

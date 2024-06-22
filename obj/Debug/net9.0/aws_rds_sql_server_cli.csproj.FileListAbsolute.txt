@@ -1,0 +1,14 @@
+/home/arik/Documents/Github/aws_rds_sql_server_cli/bin/Debug/net9.0/aws_rds_sql_server_cli
+/home/arik/Documents/Github/aws_rds_sql_server_cli/bin/Debug/net9.0/aws_rds_sql_server_cli.deps.json
+/home/arik/Documents/Github/aws_rds_sql_server_cli/bin/Debug/net9.0/aws_rds_sql_server_cli.runtimeconfig.json
+/home/arik/Documents/Github/aws_rds_sql_server_cli/bin/Debug/net9.0/aws_rds_sql_server_cli.dll
+/home/arik/Documents/Github/aws_rds_sql_server_cli/bin/Debug/net9.0/aws_rds_sql_server_cli.pdb
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.GeneratedMSBuildEditorConfig.editorconfig
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.AssemblyInfoInputs.cache
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.AssemblyInfo.cs
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.csproj.CoreCompileInputs.cache
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.dll
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/refint/aws_rds_sql_server_cli.dll
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.pdb
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.genruntimeconfig.cache
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/ref/aws_rds_sql_server_cli.dll
