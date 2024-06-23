@@ -12,3 +12,4 @@
 /home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.pdb
 /home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.genruntimeconfig.cache
 /home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/ref/aws_rds_sql_server_cli.dll
+/home/arik/Documents/Github/aws_rds_sql_server_cli/obj/Debug/net9.0/aws_rds_sql_server_cli.sourcelink.json
